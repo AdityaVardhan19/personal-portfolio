@@ -1,0 +1,31 @@
+.navbar {
+    background-color:rgb(220, 87, 20);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.list{
+    display:flex;
+    gap: 20px;
+    padding:10;
+    margin:5;
+}
+li {
+    color: white;
+    list-style: none;
+}
+h2 {
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.contact {
+    color: blue;
+}
+.skills {
+    list-style: circle;
+    color: black;
+}
+
